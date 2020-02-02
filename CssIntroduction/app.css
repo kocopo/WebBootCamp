@@ -1,0 +1,13 @@
+body{
+background: pink;
+}
+h1{
+  color:red;
+border: 5px solid purple;
+}
+li{
+  color: green;
+}
+h4{
+   background: rgb(255,100,80);
+}
