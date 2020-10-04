@@ -1,7 +1,19 @@
 p{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.5;
+  text-decoration: underline;
+}
+body{
+  font-size: 10px;
 }
 h1{
-  font-family: Georgia;
-  font-size: 100px;
+  font-family: 'Indie Flower', cursive;
+  font-size: 5em;
+  text-align: center;
+  text-decoration: line-through;
+}
+span{
+  font-size: 2.0em;
 }
