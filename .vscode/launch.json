@@ -7,8 +7,8 @@
         {
             "type": "pwa-chrome",
             "request": "launch",
-            "name": "Open fonts.html",
-            "file": "c:\\Users\\okock\\Desktop\\Webbootcamp\\WebBootCamp\\Bootstrap\\startup\\startup.html"
+            "name": "Open index.html",
+            "file": "c:\\Users\\okock\\Desktop\\Webbootcamp\\WebBootCamp\\CSS\\PriceTableStarter\\index.html"
         }
     ]
 }
